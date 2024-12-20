@@ -1,4 +1,3 @@
-'use client'
 export const theme = {
     light: {
         title: "light",
@@ -6,7 +5,6 @@ export const theme = {
             elements: "#FFFFFF",
             background: "#FAFAFA",
             text: "#111517",
-            input: "#858585"
         }
     },
     dark: {

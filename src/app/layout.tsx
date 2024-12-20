@@ -4,7 +4,7 @@ import { Nunito_Sans } from 'next/font/google'
 import { GlobalStyle } from "@/styles";
 import { theme } from "@/styles/theme";
 import { ThemeProvider } from "styled-components";
-import { Header } from '@/components/Header';
+import { Header } from '@/presentation/components/Header';
 import { useState } from 'react';
 
 
