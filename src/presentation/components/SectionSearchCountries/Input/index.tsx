@@ -1,3 +1,4 @@
+'use client'
 import { BoxInputSearch, IconSearch, InputField } from "./style"
 
 export const InputSearch = () => {
